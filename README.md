@@ -1,2 +1,2 @@
 # RatHunter
-Rat hunter addon for Rift.
+Rat hunter addon for Rift. Will upload eventually.
